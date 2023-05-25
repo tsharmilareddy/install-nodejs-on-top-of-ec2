@@ -2,14 +2,14 @@
 
 # on top of  ec2 install node js using below command
 
-# yum install nodejs
+ yum install nodejs
 
 # install npm using below command
 
-# npm install
+ npm install
 
 # deploy the code and start using below command
 
-  # npm start
+  npm start
 
   # access the page outside using publicip:3000
